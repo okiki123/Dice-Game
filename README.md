@@ -1,2 +1,2 @@
 # Dice-Game
-A simple Javacript Project
+Dice game Javascript project
